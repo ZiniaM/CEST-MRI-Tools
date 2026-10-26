@@ -119,7 +119,7 @@ If you use these tools in your research, please acknowledge:
 
 Mohanta, Z. *CEST MRI Tools: Browser-Based Utilities for CEST MRI Data Visualization and Analysis.* GitHub software repository.
 
-A formal software citation with a version number and persistent identifier will be provided in a future release.
+https://doi.org/10.5281/zenodo.23670168
 
 ## License
 
