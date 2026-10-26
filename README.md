@@ -3,8 +3,7 @@
 **Browser-Based Tools for Chemical Exchange Saturation Transfer (CEST) MRI Data Analysis**
 
 **Developed by Zinia Mohanta, PhD**  
-Department of Radiology, Kennedy Krieger Institute / Johns Hopkins School of Medicine
-
+Department of Radiology, Kennedy Krieger Institute
 ## Overview
 
 Chemical Exchange Saturation Transfer (CEST) MRI enables noninvasive investigation of tissue chemistry, molecular contrast, and physiological processes. However, CEST data processing often requires specialized software, programming expertise, and computational resources.
